@@ -93,3 +93,18 @@ Aprire il file .pbix.
 Il modello dati è pre-configurato per il querying verso il database locale. È sufficiente aggiornare i parametri di connessione (Origine Dati) con le proprie credenziali locali.
 
 Eseguire un Refresh globale: Power BI importerà i dati aggiornati tramite il connettore MySQL, popolando istantaneamente le dashboard interattive e le misure DAX.
+
+### 🗄️ Database Architecture
+<p align="center">
+  <br>
+  <strong>Entity-Relationship Model (Excalidraw)</strong><br>
+  <img src="./assets/star_schema.png" width="700">
+</p>
+## 🖼️ Report Gallery
+
+| Home Dashboard | Revenue Insights | Distribution & Genre |
+| :---: | :---: | :---: | :---: |
+|<a href="./assets/report_1_dashboard.png"><img src="./assets/report_1_dashboard.png" width="300"></a>
+|<a href="./assets/report_2_earnings.png"><img src="./assets/report_2_earnings.png" width="300"></a> 
+|<a href="./assets/report_3_earningswithtool"><img src="./assets/report_3_earningswithtool.png" width="300"></a>
+|<a href="./assets/report_4_distr&genres.png"><img src="./assets/report_4_distr&genres.png" width="300"></a>
