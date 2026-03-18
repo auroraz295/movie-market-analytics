@@ -100,8 +100,8 @@ Eseguire un Refresh globale: Power BI importerà i dati aggiornati tramite il co
 
 ## 🖼️ Report Gallery
 <p align="center">
-|<a href="./assets/report_1_dashboard.png"><img src="./assets/report_1_dashboard.png" width="300"></a>
-|<a href="./assets/report_2_earnings.png"><img src="./assets/report_2_earnings.png" width="300"></a> 
-|<a href="./assets/report_3_earningswithtool"><img src="./assets/report_3_earningswithtool.png" width="300"></a>
-|<a href="./assets/report_4_distr&genres.png"><img src="./assets/report_4_distr&genres.png" width="300"></a>
+|<a href="./assets/.png"><img src="./assets/.png" width="300"></a>
+|<a href="./assets/.png"><img src="./assets/.png" width="300"></a> 
+|<a href="./assets/"><img src="./assets/report_3_earningswithtool.png" width="300"></a>
+|<a href="./assets/.png"><img src="./assets/.png" width="300"></a>
 </p>
